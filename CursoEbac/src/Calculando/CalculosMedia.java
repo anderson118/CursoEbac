@@ -1,3 +1,5 @@
+package Calculando;
+
 public class CalculosMedia {
     public static void main(String[] args) {
 

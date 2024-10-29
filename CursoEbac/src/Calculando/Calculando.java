@@ -1,3 +1,4 @@
+package Calculando;
 public class Calculando {
 
     private int nota1;
